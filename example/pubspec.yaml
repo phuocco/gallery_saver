@@ -7,7 +7,7 @@ environment:
 
 dependencies:
   image_picker: ^0.7.2
-  path_provider: ^2.0.1
+  path_provider: ^1.6.28
   http: ^0.13.0
 
   flutter:
